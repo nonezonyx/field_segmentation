@@ -5,10 +5,10 @@ Determine which agricultural fields are currently cultivated with plants and whi
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Installation](#installation)
-- [UI Interface](#ui-interface)
-- [API Documentation](#api-documentation)
+- [API Documentation](#api)
 - [Notebook Timeline](#notebook-timeline)
-- [Dataset Structure](#dataset-structure)
+- [UI Interface](#ui)
+- [Metrics](#metrics)
 
 ## Project Overview
 This project combines computer vision and deep learning to analyze satellite/aerial imagery of agricultural fields. The system identifies:
