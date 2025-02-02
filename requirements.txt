@@ -1,0 +1,16 @@
+fastapi==0.115.8
+matplotlib==3.10.0
+numpy<2
+opencv_python==4.11.0.86
+opencv_python_headless==4.11.0.86
+Pillow==11.1.0
+PySide6==6.8.2
+PySide6==6.8.2
+PySide6_Addons==6.8.2
+PySide6_Essentials==6.8.2
+Requests==2.32.3
+torch==2.2.2
+torchvision==0.17.2
+tqdm==4.67.1
+python-multipart>=0.0.5
+uvicorn>=0.15.0
