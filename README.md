@@ -32,7 +32,7 @@ This project combines computer vision and deep learning to analyze satellite/aer
 ### Local Setup
 ```bash
 git clone git@github.com:nonezonyx/field_segmentation.git
-cd field-segmentation
+cd field_segmentation
 
 # Install dependencies
 pip install -r requirements.txt
