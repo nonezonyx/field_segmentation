@@ -34,11 +34,13 @@ This project combines computer vision and deep learning to analyze satellite/aer
 git clone git@github.com:nonezonyx/field_segmentation.git
 cd field_segmentation
 
+# Open "saves" directory and download checkpoints from gdrive
+
 # Install dependencies
 pip install -r requirements.txt
 
 # Start API server
-uvicorn main:app --reload
+uvicorn app:app --reload
 
 # or run ui
 python3 ui.py
