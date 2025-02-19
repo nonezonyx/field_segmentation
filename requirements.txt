@@ -9,8 +9,8 @@ PySide6==6.8.2
 PySide6_Addons==6.8.2
 PySide6_Essentials==6.8.2
 Requests==2.32.3
-torch==2.2.2
-torchvision==0.17.2
-tqdm==4.67.1
+torch
+torchvision
+tqdm
 python-multipart>=0.0.5
 uvicorn>=0.15.0
